@@ -1,0 +1,86 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+    margin: 0%;
+}
+
+body{
+    background-color: #191919;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 300;
+    margin-bottom: 3rem;
+    text-align: justify;
+}
+
+.cabecalho{
+    background-color: #e4e1de;
+    color: #191919;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: row;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    padding-left: 10rem;
+    border-radius: .5rem;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+}
+
+#logomarca{
+    height: 100px;
+}
+
+p, ol, ul{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    padding-top: 1rem;
+}
+
+h2{
+    margin-left: 1rem;
+    padding-top: 2rem;
+}
+
+.passo{
+    padding-top: 1rem;
+
+}
+
+.numero{
+    font-size: 1.5rem;
+    padding-left: .7rem;
+    padding-right: .7rem;
+    background-color: #4b4b55;
+    border-width: .1rem;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: .3rem;
+}
+
+.titulo{
+    font-size: 1.3rem;
+    padding-left: .2rem;
+    padding-right: .2rem;
+}
+
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.nota{
+    opacity: .8;
+    background-color: #4b4b55;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+}
