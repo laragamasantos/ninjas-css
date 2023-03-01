@@ -1,0 +1,17 @@
+p{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    height: 15rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.right-to-left{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 1rem;
+    margin-right: 4rem;
+}

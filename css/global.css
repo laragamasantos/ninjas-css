@@ -45,36 +45,6 @@ h2{
     padding-top: 2rem;
 }
 
-.passo{
-    padding-top: 1rem;
-
-}
-
-.numero{
-    font-size: 1.5rem;
-    padding-left: .7rem;
-    padding-right: .7rem;
-    background-color: #4b4b55;
-    border-width: .1rem;
-    border-style: solid;
-    border-color: #fff;
-    border-radius: .3rem;
-}
-
-.titulo{
-    font-size: 1.3rem;
-    padding-left: .2rem;
-    padding-right: .2rem;
-}
-
-.video{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
 .nota{
     opacity: .8;
     background-color: #4b4b55;
@@ -84,3 +54,19 @@ h2{
     padding-bottom: 1rem;
     border-radius: 1rem;
 }
+
+a:link{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:visited, a:active{
+    color: #a8a8b6;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+

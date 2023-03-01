@@ -1,0 +1,30 @@
+.numero{
+    font-size: 1.5rem;
+    padding-left: .7rem;
+    padding-right: .7rem;
+    background-color: #4b4b55;
+    border-width: .1rem;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: .3rem;
+}
+
+.passo{
+    padding-top: 1rem;
+}
+
+.titulo{
+    font-size: 1.3rem;
+    padding-left: .2rem;
+    padding-right: .2rem;
+}
+
+iframe{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
