@@ -1,4 +1,4 @@
-.numero{
+p > strong{
     font-size: 1.5rem;
     padding-left: .7rem;
     padding-right: .7rem;
@@ -13,7 +13,7 @@
     padding-top: 1rem;
 }
 
-.titulo{
+p > em{
     font-size: 1.3rem;
     padding-left: .2rem;
     padding-right: .2rem;
@@ -28,3 +28,4 @@ iframe{
     margin-left: auto;
     margin-right: auto;
 }
+
